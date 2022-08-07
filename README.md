@@ -31,8 +31,7 @@ git rebase -i
 
 git merge dev
 
-### 放弃merge
-git merge --abort
+### 使用rebase操作
 
 ### 合并处理完成
 git merge --continue
