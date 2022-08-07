@@ -31,7 +31,6 @@ git rebase -i
 
 git merge dev
 
-
 git commit 
 git pull
 git push
