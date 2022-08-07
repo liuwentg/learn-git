@@ -31,6 +31,9 @@ git rebase -i
 
 git merge dev
 
+### 合并处理完成
+git merge --continue
+
 git commit 
 git pull
 git push
@@ -43,3 +46,5 @@ git remote
 git diff
 git log
 git fetch
+
+
