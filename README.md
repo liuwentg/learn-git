@@ -36,6 +36,12 @@ git merge --abort
 ### 合并处理完成
 git merge --continue
 
+### 放弃merge
+git merge --abort
+
+### 合并处理完成
+git merge --continue
+
 git commit 
 git pull
 git push
