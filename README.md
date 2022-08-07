@@ -30,7 +30,6 @@ git rebase -i
 ## Git工作流
 
 git merge dev
-
 ### 放弃merge
 git merge --abort
 
@@ -40,12 +39,18 @@ git merge --continue
 
 git rebase dev
 
-git commit 
-git pull
+git rebase --continue
+
 ### 创建冲突代码
 
 111111
 
+### 创建冲突代码
+
+111111
+
+git commit 
+git pull
 git push
 git rebase
 git checkout
@@ -56,3 +61,5 @@ git remote
 git diff
 git log
 git fetch
+
+
