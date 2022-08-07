@@ -27,8 +27,7 @@ git commit --amend
 
 git rebase -i
 
-## gitflow
-
+## Git工作流
 
 git commit 
 git pull
