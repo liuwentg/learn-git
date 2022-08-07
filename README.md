@@ -22,6 +22,12 @@ git reset committed file
 
 git reset --soft committed id
 
+## 修改message
+git commit --amend
+
+git rebase -i
+
+
 
 git commit 
 git pull
