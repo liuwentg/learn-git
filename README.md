@@ -42,6 +42,10 @@ git rebase dev
 
 git commit 
 git pull
+### 创建冲突代码
+
+111111
+
 git push
 git rebase
 git checkout
