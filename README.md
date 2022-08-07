@@ -42,9 +42,9 @@ git rebase dev
 git rebase --continue
 
 
-### 创建冲突代码666
+### 创建冲突代码888
 
-1111112222
+1111113333
 
 git commit 
 git pull
@@ -58,5 +58,4 @@ git remote
 git diff
 git log
 git fetch
-
-
+git add
