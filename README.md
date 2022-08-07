@@ -22,6 +22,7 @@ git reset committed file
 
 git reset --soft committed id
 
+
 git commit 
 git pull
 git push
