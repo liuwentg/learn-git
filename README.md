@@ -36,11 +36,11 @@ git merge --abort
 ### 合并处理完成
 git merge --continue
 
-### 放弃merge
-git merge --abort
+### 使用rebase操作
 
-### 合并处理完成
-git merge --continue
+git rebase dev
+
+git rebase --continue
 
 git commit 
 git pull
