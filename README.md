@@ -20,7 +20,7 @@ git reset committed file
 
 ## 回退commit文件
 
-
+git reset --soft committed id
 
 git commit 
 git pull
