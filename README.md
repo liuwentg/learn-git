@@ -29,6 +29,8 @@ git rebase -i
 
 ## Git工作流
 
+git merge dev
+
 git commit 
 git pull
 git push
